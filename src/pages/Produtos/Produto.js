@@ -30,7 +30,7 @@ const Produto = () => {
             </span> 
             <input type="text" name="PreçoProduto" required placeholder="Preço do produto" /> 
         </label> 
-        <button class="btn"> 
+        <button className="btn"> 
             Cadastrar 
         </button> 
       </form> 
